@@ -1,0 +1,2 @@
+# Paraphrase
+Paraphrasing is the restatement of facts or opinions in a given passage of text, keeping the original meaning. Simply, it is performed by reading the passage and rewording it without copying the original author’s style or wording. Based on the definition of paraphrasing, the paraphrase pairs of text are described as two passages of text where the same meaning is to be given to the reader.
